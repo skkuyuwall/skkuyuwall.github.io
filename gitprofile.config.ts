@@ -83,7 +83,7 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Sungkyunkwan University',
+      institution: 'Sungkyunkwan University Software Faculty',
       degree: 'Undergraduate',
       from: '2023',
       to: 'Present',
