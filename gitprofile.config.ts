@@ -36,7 +36,7 @@ const CONFIG = {
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: '@hanju1y',
+    instagram: 'hanju1y',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
@@ -75,9 +75,9 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Korea Olympiad in Informatics',
+      body: 'Middle School, Silver Award',
+      year: 'May 2018',
       link: 'https://example.com',
     },
   ],
