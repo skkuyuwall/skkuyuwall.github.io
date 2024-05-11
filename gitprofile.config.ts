@@ -26,7 +26,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of HanjunKim',
     description: '',
     imageURL: '',
   },
