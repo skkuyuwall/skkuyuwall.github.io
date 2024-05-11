@@ -26,7 +26,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of HanjunKim',
+    title: 'Portfolio of Hanjun Kim',
     description: '',
     imageURL: '',
   },
@@ -78,7 +78,7 @@ const CONFIG = {
       name: 'Korea Olympiad in Informatics',
       body: 'Middle School, Silver Award',
       year: 'May 2018',
-      link: 'https://example.com',
+      link: 'https://koi.or.kr/',
     },
   ],
   educations: [
